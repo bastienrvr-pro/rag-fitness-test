@@ -1,4 +1,4 @@
-# 🏋️ RAG Fitness Chatbot - Ultimate Edition
+# RAG Fitness Chatbot 
 
 **AI-powered fitness & nutrition advisor backed by scientific research**
 
