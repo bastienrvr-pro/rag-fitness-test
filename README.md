@@ -348,19 +348,8 @@ MIT License - See [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
-
-**Project Maintainer**: [Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🌟 Star History
 
 If you find this project useful, please consider giving it a ⭐!
 
 ---
-
-**Built with 💪 for the fitness community**
