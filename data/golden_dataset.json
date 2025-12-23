@@ -1,0 +1,164 @@
+[
+  {
+    "question": "What is the optimal protein intake for muscle hypertrophy in resistance training?",
+    "expected_answer": "1.6-2.2 g/kg/day for trained individuals, up to 2.3-3.1 g/kg lean mass during caloric restriction",
+    "relevant_docs": [
+      "issn_protein_position.pdf",
+      "helms_bodybuilding_nutrition.pdf"
+    ],
+    "category": "nutrition"
+  },
+  {
+    "question": "How much protein per meal for optimal muscle protein synthesis?",
+    "expected_answer": "20-40g per meal, containing 2-3g leucine for maximal MPS",
+    "relevant_docs": [
+      "issn_protein_position.pdf"
+    ],
+    "category": "nutrition"
+  },
+  {
+    "question": "Is creatine supplementation effective for muscle growth?",
+    "expected_answer": "Yes, creatine monohydrate increases lean mass and strength, 3-5g/day maintenance dose",
+    "relevant_docs": [
+      "issn_protein_position.pdf",
+      "helms_bodybuilding_nutrition.pdf"
+    ],
+    "category": "nutrition"
+  },
+  {
+    "question": "Should protein intake be higher during a caloric deficit?",
+    "expected_answer": "Yes, 2.3-3.1 g/kg lean body mass to preserve muscle during fat loss",
+    "relevant_docs": [
+      "helms_bodybuilding_nutrition.pdf",
+      "issn_protein_position.pdf"
+    ],
+    "category": "nutrition"
+  },
+  {
+    "question": "What is the protein timing window after training?",
+    "expected_answer": "Anabolic window is ~24 hours post-exercise, but immediate post-workout protein is beneficial",
+    "relevant_docs": [
+      "issn_protein_position.pdf"
+    ],
+    "category": "nutrition"
+  },
+  {
+    "question": "Are BCAAs necessary if protein intake is adequate?",
+    "expected_answer": "No, complete protein sources provide sufficient BCAAs. Supplementation offers no additional benefit with adequate protein intake",
+    "relevant_docs": [
+      "issn_protein_position.pdf"
+    ],
+    "category": "nutrition"
+  },
+  {
+    "question": "What supplements are most effective for muscle hypertrophy?",
+    "expected_answer": "Creatine monohydrate and caffeine have strong evidence. Protein powder if dietary intake is insufficient",
+    "relevant_docs": [
+      "issn_protein_position.pdf",
+      "helms_bodybuilding_nutrition.pdf"
+    ],
+    "category": "nutrition"
+  },
+  {
+    "question": "Does full range of motion improve muscle hypertrophy compared to partial range?",
+    "expected_answer": "Yes, full ROM generally produces greater muscle hypertrophy than partial ROM across most muscle groups",
+    "relevant_docs": [
+      "schoenfeld_rom_hypertrophy.pdf"
+    ],
+    "category": "rom"
+  },
+  {
+    "question": "Are there any exceptions where partial ROM is better than full ROM?",
+    "expected_answer": "Partial ROM may be beneficial for specific muscles like calves or for advanced techniques, but full ROM is generally superior",
+    "relevant_docs": [
+      "schoenfeld_rom_hypertrophy.pdf"
+    ],
+    "category": "rom"
+  },
+  {
+    "question": "What is the mechanism behind full ROM producing more hypertrophy?",
+    "expected_answer": "Greater mechanical tension at longer muscle lengths, increased metabolic stress, and more complete muscle fiber recruitment",
+    "relevant_docs": [
+      "schoenfeld_rom_hypertrophy.pdf"
+    ],
+    "category": "rom"
+  },
+  {
+    "question": "Should I use full ROM on all exercises?",
+    "expected_answer": "Yes for most exercises, full ROM maximizes hypertrophy. Exceptions may apply for injury prevention or specific training goals",
+    "relevant_docs": [
+      "schoenfeld_rom_hypertrophy.pdf"
+    ],
+    "category": "rom"
+  },
+  {
+    "question": "Does range of motion affect strength and hypertrophy differently?",
+    "expected_answer": "ROM effects are angle-specific for strength but full ROM produces greater overall hypertrophy",
+    "relevant_docs": [
+      "schoenfeld_rom_hypertrophy.pdf"
+    ],
+    "category": "rom"
+  },
+  {
+    "question": "What is the optimal training volume for muscle hypertrophy?",
+    "expected_answer": "10-20 sets per muscle group per week, with significant individual variation. More volume generally better up to recovery limits",
+    "relevant_docs": [
+      "bernardez_training_variables.pdf",
+      "schoenfeld_rom_hypertrophy.pdf"
+    ],
+    "category": "volume"
+  },
+  {
+    "question": "How many sets per exercise should I do for hypertrophy?",
+    "expected_answer": "3-6 sets per exercise is common. Total weekly volume per muscle group (10-20 sets) is more important than per-session volume",
+    "relevant_docs": [
+      "bernardez_training_variables.pdf"
+    ],
+    "category": "volume"
+  },
+  {
+    "question": "Is there a point where more volume stops helping muscle growth?",
+    "expected_answer": "Yes, excessive volume can impair recovery. Individual maximum recoverable volume varies, typically 15-25 sets/muscle/week",
+    "relevant_docs": [
+      "bernardez_training_variables.pdf"
+    ],
+    "category": "volume"
+  },
+  {
+    "question": "What is the optimal training frequency for hypertrophy?",
+    "expected_answer": "2-3 times per week per muscle group allows for adequate stimulus and recovery, superior to once per week",
+    "relevant_docs": [
+      "bernardez_training_variables.pdf",
+      "schoenfeld_rom_hypertrophy.pdf"
+    ],
+    "category": "volume"
+  },
+  {
+    "question": "Should I train to failure for maximum muscle growth?",
+    "expected_answer": "Training close to failure (1-3 RIR) is effective. Absolute failure not necessary and may impair recovery when overused",
+    "relevant_docs": [
+      "bernardez_training_variables.pdf"
+    ],
+    "category": "volume"
+  },
+  {
+    "question": "What is the best workout program for beginners?",
+    "expected_answer": "I don't have specific workout programs in my sources. I can provide evidence on training variables like volume, frequency, and intensity.",
+    "relevant_docs": [],
+    "category": "out_of_scope"
+  },
+  {
+    "question": "How do I calculate my daily calorie needs?",
+    "expected_answer": "I don't have detailed calorie calculation formulas in my sources. For bodybuilding nutrition strategies, I can reference Helms et al.",
+    "relevant_docs": [
+      "helms_bodybuilding_nutrition.pdf"
+    ],
+    "category": "out_of_scope"
+  },
+  {
+    "question": "What exercises should I do for bigger arms?",
+    "expected_answer": "I don't have specific exercise prescriptions in my sources. I can provide evidence on training principles like ROM, volume, and frequency.",
+    "relevant_docs": [],
+    "category": "out_of_scope"
+  }
+]
