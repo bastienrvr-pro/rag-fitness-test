@@ -230,7 +230,7 @@ with gr.Blocks(css=custom_css, title="RAG Fitness Chatbot") as demo:
     
     # Header
     gr.Markdown("""
-    # 🏋️ RAG Fitness Chatbot - Ultimate Edition
+    # 🏋️ RAG Fitness Chatbot
     
     **Your AI fitness & nutrition advisor powered by scientific research**
     
